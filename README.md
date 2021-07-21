@@ -15,5 +15,6 @@ I'd echo Ted's comments regarding the inefficient storage format, but the larger
 
 I didn't take the time (yet) to subplot the histograms into a single larger plot, so I did that part manually to produce the .png below. But the rest is automated.
 
-It was a fun learning exercise, but at the same time as the father of a young lady, a little disappointing.
+It was a fun learning exercise, but at the same time -- as the father of a young lady, a bit disappointing.
 
+![image of histograms](https://github.com/jhstlr/ElSerpiente/blob/main/histograms.png)
