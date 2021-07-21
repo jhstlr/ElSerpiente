@@ -11,7 +11,7 @@ Elsewhere he pondered how these same educational & salary groups would profile a
 
 Like Ted's R program described above, this program uses the census data as input.
 
-I'd echo Ted's comments regarding the inefficient storage format, but the larger issue for me is the data granularity: bucketing the higher incomes into a single $100K bracket means the fidelity is not sufficient to understand the shape of the inequality in higher incomes.
+What appears to be a proponderance of the observations (for some educational groups) at $100k is actually the $100k+ bracket. This degree of aggregation on the top end means the fidelity of the udnerlying data is not sufficient to understand the shape of the inequality in higher incomes. I have to wonder if it might be even worse than it looks - where male salaries dominate the ultra-high end of the scale (and have a profound influence on the mean salary as a result). 
 
 I didn't take the time (yet) to subplot the histograms into a single larger plot, so I did that part manually to produce the .png below. But the rest is automated.
 
